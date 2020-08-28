@@ -15,4 +15,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: 6b9c7d8794726b00fd429df1a447a270
-          TIMEZONE: Asia/Mumbai
+          TIMEZONE: Asia/Kolkata
